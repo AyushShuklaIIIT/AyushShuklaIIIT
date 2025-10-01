@@ -23,6 +23,6 @@ Here are a few technologies I've been working with recently:
 
 ### 📊 My Top Repos
 
-[Sahyatri](https://github.com/AyushShuklaIIIT/Sahyatri)
-[Smart Resume Builder](https://github.com/AyushShuklaIIIT/smart-resume-builder)
+[Sahyatri](https://github.com/AyushShuklaIIIT/Sahyatri)  
+[Smart Resume Builder](https://github.com/AyushShuklaIIIT/smart-resume-builder)  
 [Markdown Previewer](https://github.com/AyushShuklaIIIT/markdown-previewer)
